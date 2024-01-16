@@ -194,3 +194,7 @@ use("badminton");
 // ? find students whose primary id is "656070d2b16daaa31169a51b"
 
 // db.students.find({ _id: ObjectId("656070d2b16daaa31169a51b") });
+
+// find students who have 2 hobbies as well as math score greater than 40
+
+// db.movies.find({})
